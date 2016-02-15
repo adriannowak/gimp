@@ -1,0 +1,93 @@
+### Temat: Teksty i warstwy
+
+
+### Zadanie 1
+Plik: <a href="projekt-01-01-dane/zolta-turnia.jpg">Żółta trunia</a> 
+
+1. Dodaj 80px od dolnej krawędzi okna wyśrodkowany napis "Żółta turnia" 
+2. Czcionka __Georia Bold__ o wysokości 80px;
+
+Wyeksportuj plik do formatu JPG i zapisz pod nazwą : ZT.jpg
+
+### Zadanie 2
+Plik: <a href="projekt-01-02-dane/ksiezyc.jpg">Księżyc</a> 
+
+1. Dodaj napis odsunięty od lewej krawędzi 
+  - księzyc 25px
+  - moon 85px 
+  - Mond 200px
+  - lune 300px
+
+2. Czcionka __Georia Bold__ o wysokości 100px
+3. Kolor #FFFFFF
+
+Wyeksportuj plik do formatu JPG i zapisz pod nazwą : K.jpg 
+
+### Zadanie 3
+Plik: <a href="projekt-01-03-dane/orzel-przedni.jpg">Orzeł przedni</a> 
+
+
+1. Dodaj napis "Orzeł przedni Aquila chrysaetos"
+2. Czcionka __Georgia Italic__ o wysokości 60px
+3. Wyraz __przedni__ oraz __Aquila__ oddziel znakiem enter
+4. Zmodyfikuj wyrównanie tekstu, aby był wyjustowany.
+5. Zwiększ odstęp pomiędzy literami. 
+6. Wyśrodkuj tekst w dolnej części obrazu.
+
+Wyeksportuj plik do formatu JPG i zapisz pod nazwą : OP.jpg 
+
+
+### Zadanie 4
+Plik: <a href="projekt-01-04-dane/wazka.jpg">Ważka</a> 
+
+1. Przygotuj projekt wg. <a href="projekt-01-04-dane/wazka2.png">zrzutu</a> 
+2. Napis "Ważka" __Georia bold__ 60px 
+3. Napis "dragonfly ...." __Georia Italic__ 40px
+4. Zapisz plik wazka.XCF
+
+Zapisz plik w formacie XFC pod nazwą : W.xcf
+
+
+
+### Zadanie 5
+Plik: <a href="projekt-01-05-dane/magnolia.jpg">Magnolia</a> 
+
+1. Dodaj pionowy napis "magnolia" oddalony o 50px od lewej krawędzi (9 warstw)
+2. Kolor tekstu: #FBFBFB
+3. Czcionka __Georigia Italic__ o wielkości 60px
+4. "Magnolia kobus" oddalony o 90px od lewej krawędzi (1 warstwa)
+
+Zapisz plik w formacie XFC pod nazwą M.xfc
+
+
+
+### Zadanie 6
+Plik: <a href="projekt-01-07-dane/autoholowanie.jpg">Auto-Holowanie</a> 
+
+Instalacja czcionek: <a href="https://www.youtube.com/watch?v=EWMZhxh6hrY">ekspresowa</a> lub <a href="https://www.youtube.com/watch?v=MHlCn9vYZXU">dla zaawansowanych</a> 
+
+Przykład: <a href="projekt-01-07-dane/autoholowanie2.png">Auto-Holowanie</a> 
+
+1. Wyszukaj w Internecie czcionkę Montepetrum oraz <a href="https://fortawesome.github.io/Font-Awesome/">Font Awesome</a>. 
+2. Wykorzystując <a href="projekt-01-07-dane/sciagawka.html">ściągawkę</a> znajdź symbol samochodu, telefonu komórkowego, stacjonarnego, koperty, profili społecznościowych.
+3. Wklej symbole do projektu. Nie zapomin zmienić czcionki na __Font Awesome__.
+4. Rozmieść elementy, uzupełnij informację nadająć im różne kolory.
+
+Zapisz plik w formacie XFC pod nazwą AH.xcf
+
+
+### Podsumowanie:
+
+* Otwieranie obrazu (CTRL+O)
+* Zapisywanie obrazu w formacie XCF (CTRL+S)
+* Zapisywanie obrazu w formacie JPG, BMP, PNG (Ctrl+Shift+E)
+* Skalowanie obrazu (+,-, 1,2,3,4)
+* Narzędzie tekstowe (T)
+* Narzędzie do przesuwania (M)
+* Zmiana właściwości czcionki: krój, kolor, odstępy pomiędzy wierszami, literami
+* Wyrównanie tekstu do lewej, prawej i justowanie
+* Cofanie operacji (Ctrl+Z)
+* Okno warstw (Ctrl+L)
+* Prowadnice (Ctrl+Shift+T)
+* Linijka (Ctrl+Shift+R)
+* Przyklej do: siatki, prowadnic, ścieżki
