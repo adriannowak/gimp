@@ -2,7 +2,7 @@
 
 
 ### Zadanie 1
-Plik: <a href="projekt-01-01-dane/zolta-turnia.jpg">Żółta trunia</a> 
+Plik: <a href="./projekt-01-01-dane/zolta-turnia.jpg">Żółta trunia</a> 
 
 1. Dodaj 80px od dolnej krawędzi okna wyśrodkowany napis "Żółta turnia" 
 2. Czcionka __Georia Bold__ o wysokości 80px;
@@ -10,7 +10,7 @@ Plik: <a href="projekt-01-01-dane/zolta-turnia.jpg">Żółta trunia</a>
 Wyeksportuj plik do formatu JPG i zapisz pod nazwą : ZT.jpg
 
 ### Zadanie 2
-Plik: <a href="projekt-01-02-dane/ksiezyc.jpg">Księżyc</a> 
+Plik: <a href="./projekt-01-02-dane/ksiezyc.jpg">Księżyc</a> 
 
 1. Dodaj napis odsunięty od lewej krawędzi 
   - księzyc 25px
@@ -24,7 +24,7 @@ Plik: <a href="projekt-01-02-dane/ksiezyc.jpg">Księżyc</a>
 Wyeksportuj plik do formatu JPG i zapisz pod nazwą : K.jpg 
 
 ### Zadanie 3
-Plik: <a href="projekt-01-03-dane/orzel-przedni.jpg">Orzeł przedni</a> 
+Plik: <a href="./projekt-01-03-dane/orzel-przedni.jpg">Orzeł przedni</a> 
 
 
 1. Dodaj napis "Orzeł przedni Aquila chrysaetos"
@@ -38,7 +38,7 @@ Wyeksportuj plik do formatu JPG i zapisz pod nazwą : OP.jpg
 
 
 ### Zadanie 4
-Plik: <a href="projekt-01-04-dane/wazka.jpg">Ważka</a> 
+Plik: <a href="./projekt-01-04-dane/wazka.jpg">Ważka</a> 
 
 1. Przygotuj projekt wg. <a href="projekt-01-04-dane/wazka2.png">zrzutu</a> 
 2. Napis "Ważka" __Georia bold__ 60px 
@@ -50,7 +50,7 @@ Zapisz plik w formacie XFC pod nazwą : W.xcf
 
 
 ### Zadanie 5
-Plik: <a href="projekt-01-05-dane/magnolia.jpg">Magnolia</a> 
+Plik: <a href="./projekt-01-05-dane/magnolia.jpg">Magnolia</a> 
 
 1. Dodaj pionowy napis "magnolia" oddalony o 50px od lewej krawędzi (9 warstw)
 2. Kolor tekstu: #FBFBFB
@@ -62,11 +62,11 @@ Zapisz plik w formacie XFC pod nazwą M.xfc
 
 
 ### Zadanie 6
-Plik: <a href="projekt-01-07-dane/autoholowanie.jpg">Auto-Holowanie</a> 
+Plik: <a href="./projekt-01-07-dane/autoholowanie.jpg">Auto-Holowanie</a> 
 
 Instalacja czcionek: <a href="https://www.youtube.com/watch?v=EWMZhxh6hrY">ekspresowa</a> lub <a href="https://www.youtube.com/watch?v=MHlCn9vYZXU">dla zaawansowanych</a> 
 
-Przykład: <a href="projekt-01-07-dane/autoholowanie2.png">Auto-Holowanie</a> 
+Przykład: <a href="./projekt-01-07-dane/autoholowanie2.png">Auto-Holowanie</a> 
 
 1. Wyszukaj w Internecie czcionkę Montepetrum oraz <a href="https://fortawesome.github.io/Font-Awesome/">Font Awesome</a>. 
 2. Wykorzystując <a href="projekt-01-07-dane/sciagawka.html">ściągawkę</a> znajdź symbol samochodu, telefonu komórkowego, stacjonarnego, koperty, profili społecznościowych.
@@ -91,3 +91,5 @@ Zapisz plik w formacie XFC pod nazwą AH.xcf
 * Prowadnice (Ctrl+Shift+T)
 * Linijka (Ctrl+Shift+R)
 * Przyklej do: siatki, prowadnic, ścieżki
+
+
