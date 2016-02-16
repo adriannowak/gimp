@@ -1,0 +1,56 @@
+### Temat: Rozjaśnianie fotografii
+
+
+### Zadanie 1 - rozjaśnianie zdjęcia 1
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-03-01-dane/autonaprawa.jpg">Autonaprawa</a> 
+
+1. Dodaj nową białą warstwę. Ustaw krycie na 70%
+2. Dodaj wyśrodkowany tekst "Autonaprawa" czcionką Ferro rosso o wysokości 130px (wyśrodkowane)
+3. Dodaj tekst "mechanika pojazdowa ENTER naprawy powypadkowe ENTER naprawy serwisowe ENTER blacharstwo" czcionką Steiner Light Semi Expanded
+
+Zapisz plik jako AN.JPG
+
+### Zadanie 2 - rozjaśnianie zdjęcia 2
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-03-02-dane/pioro.jpg">Pióro</a> 
+Efekt końcowy: <a href="http://vector.org.pl/gimp/projekt-03-02-dane/pioro2.png">Pióro</a> 
+
+1. Dodaj białą warstwę 
+2. Przesuń warstwę z obrazem NAD białą
+3. Dodaj teksty
+4. Ustaw krycie warstwy z obrazem na 20%
+5. Wykorzystana czcionka: Chopin Script Medium
+
+Zapisz plik jako XFC
+
+
+### Zadanie 3 - logo
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-03-05-dane/energetyka.jpg">Pióro</a> 
+Efekt końcowy: <a href="http://vector.org.pl/gimp/projekt-03-05-dane/energetyka2.png">Pióro</a> 
+
+
+Uwaga: zastosuj progowanie oraz inwersję!
+
+
+
+### Zadanie 4 - znak wodny
+
+1. Wyszukaj grafikę na stronie <a href="http://photo.net/photodb/random-photo?category=NoNudes">photo.net</a>.
+2. Dodaj swoje imię i nazwisko
+3. Kolor tekstu: biały, wysokość 200px, krycie 35%
+4. Zastosuj opcję kolory/inwersja
+
+Plik wyeksportuj jako .PNG
+
+
+Podsumowanie:
+
+- dodanie nowej warstwy
+- zmiana aktywnej warstwy
+- zmiana krycia warstwy
+- podnosznie i opuszczenie warstwy
+- zmiana koloru wypelnienia
+- wypelnienie całej warstwy kolorem (Wypelnianie kolorem lub deseniem, skrót Shift+b)
+- inwersja kolorów

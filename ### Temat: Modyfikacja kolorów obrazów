@@ -1,0 +1,93 @@
+### Temat: Modyfikacja kolorów obrazów
+
+### Zadanie 1 - przekształcanie zdjęcia kolorowego w czarno-białe
+Plik: <a href="http://vector.org.pl/gimp/projekt-02-01-dane/kozi-wierch.jpg">Kozi wierch</a> 
+
+1. Wykorzystaj opcję __Kolory/Desaturacja__
+2. Stwórz 3 projekty : 
+  - szarość oparta na jasności (KW-JAS)
+  - szarość oparta na jaskrawości (KW-JASK)
+  - szarosc oparta wartości średniej (KW-SR)
+3. Każdy projekt zapisz jako plik JPG o jakości 50, 75 oraz 100% w formacie (NAZWA_PROJEKTU)-JAKOSC.JPG np. KW-JAS-75.JPG, KW-JAS-100.JPG
+
+### Zadanie 2 - zmiana kolorowej fotografii w jednobarwną
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-02-02-dane/rachunek.jpg">Rachunek</a> 
+
+1. Wykorzystaj opcję __Kolory/Barwienie__
+2. Ustawienia: barwa 200, nasycenie: 30, jasność 0 
+3. Wykorzystująć opcję __Kolory/Jasność i kontrast__ 
+4. Ustawienia: Jasność -30, kontrast 20
+
+
+Odpowiedz na pytanie: barwa przyjmuje wartości od 0 do 360, a nasycenie od 0 do 100, dlaczego? Odpowiedzi udziel w pliku RCH.TXT
+Zapisz plik jako RCH.JPG
+
+
+
+### Zadanie 3 - zmiana kolorowej fotografii w jednobarwną (sepia)
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-02-03-dane/zamosc.jpg">Zamość</a> 
+
+1. Dokonaj operacji barwienia: barwa 30, nasycenie : 30, jasność: -10
+2. Dodaj do obrazu wyśrodkowany napis "Zamość" o kolorze beżowym (w odlegności 200px od dolnej krawędzi obrazu). Czcionka __Georgia Bold__ 80px
+Zapisz plik jako ZAM.JPG
+
+
+### Zadanie 4 - zmiana poziomów kolorów 
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-02-05-dane/wypluwki.jpg">Wypluwki</a> 
+
+Przed przystąpieniem: https://www.youtube.com/watch?v=6_SatTVKPlk
+
+1. Wykorzystaj okno __Kolory/Poziomy__ i ustal wartość koloru białego oraz czarnego.
+2. Wykorzystująć okno __Kolory/Jasność i kontrast__, ustawienia 50 jasność, kontrast 30
+3. Wykorzystująć okno __Kolory/Modyfikacja barwy/jasności/nasycenia__ ustaw nasycenie na wartość 40
+4. Dodaj wyśrodkowany tekst w kolorze #FFBBFF "Wypluwki Sowy" o rozmiarze 80px 20px od górnej krawędzi.
+5. Dodaj wyjustowany tekst pomiędzy nagłowkiem a czaszką. "Sowy połykają małe gryzonie w całości. Po przetrawieniu wypluwają kości ofiary. Zdjęcie przedstawia czaskę małego gryzonia wyjętą z wypluwek sowy" o adekwatnym rozmiarze.
+6. Zastosuj czcionkę <a href="http://www.fontsquirrel.com/fonts/list/find_fonts?filter%5Bclassifications%5D%5B0%5D=retro&filter%5Bclassifications%5D%5B1%5D=sans+serif&filter%5Btags%5D%5B0%5D=paragraph">z portalu fontsquirrel</a>
+
+Plik zapisz jako WYPLUWKI.JPG
+Więcej info? 
+
+
+### Zadanie 5 - progowanie 
+Plik: <a href="http://vector.org.pl/gimp/projekt-02-06-dane/czolg.jpg">Wypluwki</a> 
+
+1. Wykorzystaj opcję __Kolory/Progowanie__ ustal dolną granicę progowania na 150.
+2. Przy użyciu czcionki "Deutsch Gothic" dodaj napis: "World of Tanks" w kolorze czarnym (wyśrodkowany, poniżej czołgu)
+
+Zapisz plik jako IN.JPG
+
+### Zadanie 6 - progowanie 2
+
+1. Wyszukaj grafikę na stronie <a href="http://photo.net/photodb/random-photo?category=NoNudes">photo.net</a>.
+2. Wykonaj progowanie. 
+3. Dodaj opis do zdjęcia
+4. Zastosuj opcję kolory/inwersja
+
+Plik wyeksportuj jako IN2.PNG
+
+
+
+
+
+#### Odcień
+Każdej barwie można przyporządkować pewną liczbę, która jednoznacznie określa jej
+kolor (najczęściej jest to długość odpowiadającej jej fali świetlnej, choć wbrew temu co
+podaje wiele źródeł nie zawsze tak jest). Pozycję wybranej barwy na tzw. kole barw
+określa się jako H (hue). Najlepsze polskie tłumaczenie tego słowa to odcień
+albo właśnie kolor
+
+#### Nasycenie
+Każda barwa może posiadać różny stopień nasycenia. Od zera, dla którego odnosimy
+jedynie wrażenie jasności i nie potrafimy rozróżnić koloru do jeden, gdy barwa jest w
+pełni nasycona. Parametr ten nazywamy nasyceniem S (saturation)
+
+#### Jasność
+Gdy odrzucimy wrażenie koloru, punkty obrazu możemy rozróżnić jedynie według ich
+jasności L (lightness).
+
+#### Jaskrawość
+Stopień zawartości światła białego w danej barwie nazywamy jaskrawością i mierzymy
+przy użyciu jednego z dwóch równoważnych parametrów V (value) lub B (brightness)
