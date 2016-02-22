@@ -1,0 +1,93 @@
+### Temat: Kopiowanie i wklejanie całych obrazów, wyrównanie warstw
+
+
+### Zadanie 1
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-05-01-dane/lublin.jpg">Lublin</a> 
+
+1. Utwórz nowy projekt o wym. 800x600
+2. Otwórz plik Lublin.JPG w kolejnej zakładce
+3. Wklej Lublin.JPG jako nową warstwę (Ctrl+c, ctrl+v lub Edycja/Kopiuj, Edycja/Wklej)
+4. Nowa warstwa powinna pojawić się w menu Warstwy (Ctrl+l) jako __Oderwane zaznaczenie__
+5. Kliknij "Nowa warstwa", wówczas zaznaczenie przekształci się w nową warstwę
+
+
+Uwaga: opcja wklej umieszcza wklejany obraz na środku bieżącej warstwy
+
+6. Dodaj pionowy napis "LUBLIN", po prawej stronie fotografii.
+
+Plik wyeksportuj jako JPG i nadaj nazwę: LB.JPG
+
+### Zadanie 2 
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-05-06-dane/zalew-zemborzycki-tlo.jpg">Zalew zemborzycki</a> 
+Plik: <a href="http://vector.org.pl/gimp/projekt-05-06-dane/zalew-zemborzycki-a.jpg">Zalew zemborzycki - A</a> 
+Plik: <a href="http://vector.org.pl/gimp/projekt-05-06-dane/zalew-zemborzycki-b.jpg">Zalew zemborzycki - B</a> 
+Plik: <a href="http://vector.org.pl/gimp/projekt-05-06-dane/zalew-zemborzycki-c.jpg">Zalew zemborzycki - C</a> 
+
+Efekt: <a href="http://vector.org.pl/gimp/projekt-05-06-dane/zalew-zemborzycki2.png">Zalew zemborzycki</a> 
+
+Warstwy:
+
+1. Tło przedstawiające rozmyte zdjęcie
+2. Białej warstwy przysłaniającej tło
+3. Trzech fotografii
+4. Dwóch warstw tworzących napis: Zalew Zemborzycki
+5. Dwóch warstw tworzących napis: i okolice
+
+Plik zapisz jako projekt XCF pod nazwa ZZ.XCF
+
+
+### Zadanie 3
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-06-01-dane/ulica-dominikanska.jpg">Ulica dominikańska</a> 
+
+1. Wykonaj barwienie, tak aby obraz miał kolorystykę sepia.
+2. Przy użyciu zakraplacza pobierz kolor.
+3. Dodaj do obrazu napis "ULICA DOMINIKAŃSKA" wykonany czcionką __Kurier Cond Light__ o wysokości 40px
+4. Przy użyciu narzędzia wyrównania dodaj tekst o 80px względem dolnej krawędzi.
+5. Wyśrodkuj warstwę z tekstem przy użyciu wyrównania warstw.
+6. Zwiększ rozmiar tekstu do 100px i zmodyfikuj rozmiary bloku
+
+Aby wyśrodkować ponownie użyj: 
+ - pole dynamiczne z opcji T
+ - przytnij warstwę (w zakładce warstwy)
+
+Zauważ, że przycinająć warstwę tracimy informację o zawartym w niej tekście. 
+
+Zapisz projekt jako plik XCF pod nazwą DOM.XCF
+
+### Zadanie 4
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-06-03-dane/ksiazki.xcf">Ksiązki</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-06-03-dane/antykwariat2.png">Antykwariat</a> 
+
+1. Dodaj nowy projekt o rozm. 800x600
+2. Skopiuj z projektu ksiazki warstwę z książkami.
+3. Wklej ją i oddal o 40px od lewej krawędzi okna.
+4. Wykorzystując mechanizm grupowania rozmieść elementy.
+
+Zapisz pracę jako plik XCF.
+
+### Zadanie 5
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-06-04-dane/jenot2.png">Jenot</a>
+<a href="http://vector.org.pl/gimp/projekt-06-04-dane/jenot1.jpg">Jenot1</a>
+<a href="http://vector.org.pl/gimp/projekt-06-04-dane/jenot2.jpg">Jenot2</a>
+<a href="http://vector.org.pl/gimp/projekt-06-04-dane/jenot3.jpg">Jenot3</a>
+
+1. Na podstawie wzoru przygotuj plik XCF zachowując kolorystykę oraz zdjęcia
+
+
+### Zadanie 6
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-06-05-dane/foto.zip">Zdjęcia</a>
+
+1. Wykrozystująć mechanizm grupowania utwórz z dostępnych obrazów siatkę 4x4.
+2. Rozjaśnij obraz.
+3. Dodaj wyśrodkowany napis przy użyciu wybranej przez siebie czcionki "Zwięrzeta okolic Lublina"
+
+
+Podsumowanie:
+- Q - wyrównanie warstw
+- O - zakraplacz

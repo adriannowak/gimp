@@ -1,0 +1,84 @@
+### Temat: Rozmycie i wyostrzanie
+
+Rozmycie to jeden z najbardizej przydatnych filtrów. GIMP ofertuje sześć różnych efektór tego typy
+(dostępne poprzez menu __Filtry/Rozmycie__). 
+
+Uwaga: Od dzisiejszej listy na zadaniu powinien pojawić się znak wodny, zawierający inicjały autora.
+
+### Zadanie 1 - rozmycie Gaussa
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-04-01-dane/czas-siewu.jpg">Czas siewu</a> 
+
+1. Wykorzystaj opcję __Rozmycie Gaussa__
+2. Parametry rozmycia poziomego i pionowego ustal na 20px
+3. Dodaj dwa napisy wykonane czcionką "Antywka Toruńska", "2016", "Czas swiewu"
+4. Nie zapominij dodać znaku wodnego!
+
+Plik wyeksportuj jako JPG i nadaj nazwę: CS.JPG
+
+### Zadanie 2 - pikselizacja
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-04-02-dane/maszynopisanie.jpg">Maszynopisanie</a> 
+
+1. Wykorzystaj opcję __Filtry/Rozmycie/Pikselizuj__
+2. Ustal szerokość pisela na 10px
+3. Dodaj do obrazu napisy wykonane czcionką "Cafefree":
+	-  "Maszynopisanie" - 50px,
+	- "- prac dyplomowych",
+	- "- prac magisterskich",
+	- "- prac licencjackich",
+	- "tel. 606 505 404"
+
+4. Dodaj przysłaniającą warstwę (np. niebieską), której krycie wynosi 10%.
+
+Plik wyesportuj jako PNG i nadaj nazwę PX.PNG
+
+### Zadanie 3 - rozmycie w ruchu
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-04-03-dane/automobil.jpg">Automobil</a> 
+
+1. Otwórz plik. Zduplikuj warstwę tła.
+2. Nadaj nowej warstwię nazwę: "kopia tła" i wykonaj filtr __Rozmycie/Rozmycie_w_ruchu___, długość 60, kąt 180
+3. Zmniejsz widoczność warstwy do 60%, dzięki czemu uzyskamy efekt poruszającego się samochodu.
+4. Dodaj trzy napisy wykonane czcionkami: Parisish oraz Diavlo Light: "Automobil", "Wypożyczalnia samochodów". 
+5. Dodaj informacje kontaktowe przy użyciu czcionki Font Awesome 
+
+
+### Zadanie 4 - rozmycie Gaussa2
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-04-04-dane/antyk.jpg">Antyk</a> 
+Plik: <a href="http://vector.org.pl/gimp/projekt-04-04-dane/antyk2.png">Antyk</a> 
+
+1. Wykonaj grafikę zgodnie z projektem.
+Plik zapisz jako projekt XCF o nazwie A.XCF. 
+
+### Zadanie 5 - wyostrzenie
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-04-05-dane/koscielec.jpg">Kościelec</a> 
+
+
+1. Wykorzystaj opcję __Filtr/Uwydatnianie__. Ustaw wartość ostrości na 50%.
+2. Wykonaj operację automatycznego dostosowywania kolorów. (Kolory->poziomy)
+3. Dodaj przekształcenie Kolory -> Automatyczne uwydatnienie kolorów.
+
+Plik zapisz jako projekt XCF o nazwie K.XCF. 
+
+### Zadanie 6 - rozmycie gaussa z progowaniem
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-04-06-dane/czolg.jpg">Czołg</a> 
+
+
+1. Zbadaj jak zachowuje się opcją __Progowanie__, gdy uprzednio zastosujemy rozmycie gaussa o różnych parametrach. 
+
+Wyniki swoich obserwacji zapisz jako dokument TXT o nazwie RG.TXT
+
+Plik zapisz jako projekt XCF. 
+
+Podsumowanie:
+
+- rozmycie Gaussa,
+- rozmycie w ruchu, 
+- pikselizacja,
+- wyostrzanie
+- kopiowanie warstw,
+- efekt poświaty
