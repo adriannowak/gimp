@@ -1,0 +1,127 @@
+### Temat: Selekcja
+
+Selekcje stanowią obok warstw najważniejsze narzędzie pracy w GIMP.
+Przy ich użyciu definiuje się fragment obrazu, na którym będą wykonywane operacje.
+Większosć narzędzi i filtrów działa w odniesieniu do zaznaczonego obszaru na bieżącej warstwie.
+
+CZtery podstawowe narzędzia :
+	- prostokąty i kwadraty (R)
+	- okręgi i elipsy (E)
+	- odręczne zaznaczenie (F)
+	- zaznaczanie rozmyte/magiczna róźdźka (U)
+
+
+
+
+### Zadanie 1 
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-01-dane/cytrusy.jpg">Cytrusy</a> 
+
+1. Utwórz nowy projekt o rozmiarze 800x600 px.
+2. Dodaj kolor tła : odcień źółtego
+3. Otwórz w nowym oknie plik cytrusy.jpg i wytnij jego fragment, przy użyciu narzędzia wycinanie prostokątów.
+4. Dodaj wycięty fragment i go wyśrodkuj
+
+
+Plik zapisz jako projekt XCF : CY.XCF
+
+
+
+
+### Zadanie 2
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-02-dane/chmury.jpg">Chmury</a> 
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-02-dane/czajka.jpg">Czajka</a> 
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-02-dane/rybitwa.jpg">Rybitwa</a> 
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-02-dane/sojka.jpg">Sójka</a> 
+
+
+Efekt: <a href="http://vector.org.pl/gimp/projekt-07-02-dane/ptaki2.png">Ptaki</a> 
+
+
+Zastosowana czcionka: <a href=http://www.fontspace.com/peter-wiegel/stage-2>Czcionka Stage</a> oraz  <a href="http://www.fontspace.com/gluk/promocyja">Czcionka Promocyja Medium</a>
+
+Plik zapisz jako projekt XCF : PY.XCF
+
+### Zadanie 3
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-03-dane/elektronik.jpg">Elektronik</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-07-03-dane/elektronik2.png">Elektronik</a> 
+
+Zastosowana czcionka: <a href=http://www.fontspace.com/apostrophic-lab/charrington>Czcionka Charrington</a>
+
+1. Zaznacz obszar z mikroprocesorem przy użyciu (F)
+2. Dodaj zmiękczanie zaznaczenia (100px) (Zaznaczenie/Zmiękcz)
+3. Zastosuj filtr wyostrzanie (Filtr/Uwydatnianie/Wyostrz)
+4. Odwróć zaznaczenie
+5. Dodaj nową warstwę wypełnioną czarnym kolorem
+6. Zmniejsz krycie
+
+Poeksperymentuj. Wykonaj ten projekt kilkuktornie zmieniając wielkość zaznaczonego obszaru, stopień zmiękczenia, selekcji oraz krycia warstwy.
+
+
+Plik zapisz jako projekt XCF : EL.XCF
+
+
+### Zadanie 4
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-04-dane/motoryzacja.jpg">Motoryzacja</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-07-04-dane/motoryzacja2.png">Motoryzacja</a> 
+
+1. Zaznacz cały obszar obrazu
+2. Zmniejsz zaznaczenie o 100px (Zaznaczenie/Zmniejsz)
+3. Zmiękcz zaznaczenie (50px)
+4. Odwróć zaznaczenie, wypełnij kolorem
+5. Dodaj napisy
+
+
+Zapisz plik jako projekt XCF o nazwie MO.XCF
+
+
+### Zadanie 5
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-06-dane/zarowka.jpg">Żarówka</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-07-06-dane/zarowka2.png">Żarówka</a> 
+
+1. Wytnij przy użyciu magicznej różdźki żarówkę.
+2. Do zaznaczenia wyciętej krawędzi użyj: Warstwa/Przezroczystość/Kanał alfa na zaznaczenie (lub w menu Ctrl+l)
+3. Zmniejsz zaznaczneie o 10px
+4. Zmiękcz zaznaczenie o 10px
+5. Odwróć zaznaczenie
+6. Na zaznaczonym obszarze wykonaj operację "Kolory/Zamiana koloru na alfę. Zamień w alfę kolor biały"
+
+Uwaga: Dostosuj wymiary końcowego zaznaczenia, przy użyciu opcji zaawansowanych zaznaczenia !!
+
+Zapisz plik jako projekt XCF o nazwie ZAR.XCF
+
+
+### Zadanie 6
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-07-07-dane/rowerzysta.jpg">Rowerzysta</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-07-07-dane/rowerzysta2.png">Rowerzysta</a> 
+
+1. Wykorzystaj zaznaczenie odręczne
+
+
+Użyta czcionka:
+<a href="http://simplythebest.net/fonts/fonts/last_words.html">Czcionka Last Words Thin</a>
+
+Plik zapisz jako projekt XCF : RO.XCF
+
+Podsumowanie:
+
+- Ctrl+ Shift + A - Zaznaczenie/Brak
+- Ctrl - zmienia środek zaznaczenia
+- Shift - wymusza symetrie
+- Alt - przesunięcie zaznaczenia (nie linux)
+- Shift+Q - szybka maska
+- Ctrl+I - odwroc zaznaczenie
+
+
+Najważniejszą cecha zaznaczenia jest to że dana operacja jest wykonywana na bieżącej warstwie w obrębie danego zaznaczenia.
+Pamiętaj, że Shift zmienia kształt zaznaczenia z protokąta w kwadrat oraz z elipsy w koło, a także Ctrl zmienia położenie środka. Przyciski te należy przytrzymac po rozpoczęciu zaznaczenia. 
+Mogą być przytrzymywane jednocześnie.
+
+Wszystkie narzędzia zaznaczenia mają pewne opcję, które poznasz klikająć podwójnie ikonę narzędzia. OPcje te pozwalają m.in. na wygodne towrzenie selekcji o zadanych rozmiarach. 
+
+Zaznaczony fragment możemy skopiować i wkleić. Wklejany obraz trafia na  środek biężącego zaznaczenia. Zaznaczenia ma krawędź, która może być ostra lub rozmyta. Można to zweryfikować przełączając się na widok szybkiej maski.
+
+Zaznaczenia mogą być przesuwane (przycisk alt mówi, że przesunięciu podlega zaznaczenie a nie warstwa).
