@@ -1,0 +1,28 @@
+### Zadanie 1
+
+Dodaj efekt pikselizacji do obrazu <a href="http://vector.org.pl/gimp/spr1/manga.jpg">Manga</a> - <a href="http://vector.org.pl/gimp/spr1/manga2.png">Manga</a> 
+
+Miejsce bez pikselizacji powinno zostać rozmyte.
+
+Dodaj napis "Alfabet Japoński": http://www.dafont.com/manga-temple.font (wyśrodkowany)
+
+Dodaj 4 symbole z alfabetu: <a href="http://vector.org.pl/gimp/spr1/alfabet.jpg">Alfabet</a> w kolorze białym z przezroczystoscia (w jednej linii)
+
+Zapisz plik jako MAN.XCF
+
+### Zadanie 2
+
+Sciągnij na dysk forotografię Wrocławia. Zastosuj efekt sepii. 
+Dodaj wyśrodkowany tekst "NAZWA_ULICY" o kolorystyce sepii (np. przy użyciu czcionki Kurier Cond Light) 
+
+Zapisz plik jako ULI.XCF
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/spr1/samochod.jpg">Samochód</a> 
+Efekt: <a href="http://vector.org.pl/gimp/spr1/samochod.png">Samochód</a> 
+
+Czcionki:
+<a href="http://vector.org.pl/gimp/spr1/Diavlo-Medium-Regular.zip">Czcionka Diavlo Medium 60, kolor szary</a> 
+<a href="http://vector.org.pl/gimp/spr1/impact_label.zip">Czcionka Impact Label Reversed 100, kolor szary</a> 
+
+Zapisz plik jako SAM.XCF
