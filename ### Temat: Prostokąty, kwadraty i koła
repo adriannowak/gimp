@@ -1,0 +1,47 @@
+### Temat: Prostokąty, kwadraty i koła
+
+
+### Zadanie 1
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-08-01-dane/zenit.jpg">Zenit</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-08-01-dane/zenit2.png">Zenit</a> 
+
+Plik wyeksportuj jako XCF i nadaj nazwę: ZEN.XCF
+
+### Zadanie 2 
+Plik: <a href="http://vector.org.pl/gimp/projekt-08-02-dane/fotografia.jpg">Fotografia</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-08-02-dane/fotografia2.png">Fotografia</a> 
+
+
+Uwaga: Pracuj na projekcie bez wypełnienia!
+Uwaga2: Biały i czarny prostokąt.
+Plik zapisz jako projekt XCF pod nazwa FOT.XCF
+
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-08-05-dane/giewont.jpg">Giewont</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-08-05-dane/giewont2.png">Giewont</a> 
+
+Plik zapisz jako projekt XCF pod nazwa GIE.XCF
+
+Użyj czcionki : Scriptina Pro Light lub podobnej
+
+### Zadanie 4
+
+Pliki: <a href="http://vector.org.pl/gimp/projekt-08-06-dane/mozg.xcf">Móxg</a>, <a href="http://vector.org.pl/gimp/projekt-08-06-dane/pieniadze.xcf">Pieniądze</a>,  <a href="http://vector.org.pl/gimp/projekt-08-06-dane/zarowka.xcf">Żarówka</a>
+Efekt:  <a href="http://vector.org.pl/gimp/projekt-08-06-dane/korepetycje2.png">Korepetycje</a>
+
+Plik zapisz jako projekt XCF pod nazwa KOR.XCF
+
+Użyj czcionki: Czcionka D3 Euronism, Czcionka Diavlo Light
+
+Uwaga: Odstęp pomiędzy kołami 120px
+Uwaga2: Wykorzystaj opcję "Obraz -> Połącz widoczne warstwy"
+Uwaga3: Jak wyśrodkować ikony w kołach? Wykorzystaj zaznaczenie rozmyte oraz opcję wyrównanie
+
+
+Podsumowanie:
+- Ctrl+M - łączenie widocznych warstw
+- Shift+klik wypełnienie zaznaczenia kolorem
+- Zaokrąglanie zaznaczenia
+- Przekształcenie alfy na zaznaczenie

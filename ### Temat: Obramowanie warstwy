@@ -1,0 +1,28 @@
+### Temat: Obramowanie warstwy
+
+
+### Zadanie 1
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-09-02-dane/tuting.jpg">Tuning</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-08-01-dane/tuning2.png">Tuning</a> 
+
+Uwaga: ramka i fragment obrazu mają być na różnych warstwach!
+
+Plik wyeksportuj jako XCF i nadaj nazwę: TUN.XCF
+
+### Zadanie 2 
+Plik: <a href="http://vector.org.pl/gimp/projekt-09-03-dane/zaskronce.jpg">Zaskrońce</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-08-03-dane/zaskronce2.png">Zaskrońce</a> 
+
+Uwaga: Ramka ma wysokość ok 40px. 
+Plik zapisz jako projekt XCF pod nazwa ZAS.XCF
+
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-09-04-dane/zaba.jpg">Żaba</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-08-04-dane/zaba2.png">Żaba</a> 
+
+
+Podsumowanie:
+
+Technika dodawania obramowań bazuje na operacji zmniejszania oaz zwiększania zaznaczenia. Obramowania możesz umieszczać na tej samej warstwie co obramowany obrazek lub korzystająć z operacji kopiuj/wklej na nowej warstwie. 
