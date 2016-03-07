@@ -1,0 +1,77 @@
+### Temat: Skalowanie i kadrowanie obrazów
+
+
+### Zadanie 1
+Pliki: <a href="/home/anowak/GIMP/www/projekt-12-01-dane/zolw-1.jpg">Żółw-1</a>, <a href="/home/anowak/GIMP/www/projekt-12-01-dane/zolw-2.jpg">Żółw-2</a>, <a href="/home/anowak/GIMP/www/projekt-12-01-dane/zolw-3.jpg">Żółw-3</a>, <a href="/home/anowak/GIMP/www/projekt-12-01-dane/zolw-4.jpg">Żółw-4</a>
+
+Efekt: <a href="http://vector.org.pl/gimp/projekt-09-02-dane/zolw-2.png">Żółw</a> 
+
+Uwaga: wymiar projektu 800 x 532
+
+Plik wyeksportuj jako XCF i nadaj nazwę: ZOL.XCF
+
+### Zadanie 2 
+Plik: <a href="http://vector.org.pl/gimp/projekt-12-02-dane/kd.zip">Obrazy</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-12-02-dane/kazimierz-dolny2.png">Kazimierz dolny</a> 
+
+Uwaga: Czcionka <a href="http://www.fontspace.com/gazoz/mutlu">Mutlu</a>
+
+Uwaga2: Wymiar projektu - 1200x900
+
+UWaga3: Wysokość miniatur 200px z zachowaniem proporcji
+
+Plik zapisz jako projekt XCF pod nazwa KD.XCF
+
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-12-03-dane/zmija-i-zaskroniec.jpg">Żmija i zaskroniec</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-12-03-dane/zmija-i-zaskroniec2.png">Żmija i zaskroniec</a> 
+
+Uwaga: Rozmiar porojektu: 800 px z zachowaniem proporcji
+
+
+### Zadanie 4
+Plik: <a href="http://vector.org.pl/gimp/projekt-12-04-dane/rzekotka.jpg">Rzekotka</a> 
+
+Przy użyciu narzędzia "__Obraz/Rozmiar wydruku" ustaw:
+ - 6000 dpi, 3000 dpi, 1000 dpi
+ - Zachowaj taką samą rozdzielczość obrazu (4288x2848)
+
+Utworz nowy dokument ODT lub DOCX. Wklej stworzone obrazy. 
+
+Efekt pracy zapisz jako RZE.DOC lub RZE.ODT
+
+Udziel odpowiedzi na pytanie: co to jest DPI. 
+Jaki jest DPI wydruku?
+
+
+
+### Zadanie 5
+Plik: <a href="http://vector.org.pl/gimp/projekt-12-07-dane/orzech-prawy.jpg">Twix lewy</a>,  <a href="http://vector.org.pl/gimp/projekt-12-07-dane/orzech-lewy.jpg">Twix prawy</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-12-07-dane/orzechy.jpg">Orzechy</a> 
+
+Uwaga: Czcionka TANTOR
+
+Uwaga: Wymiar projektu 800x600
+
+Plik zapisz jako projekt XCF pod nazwa TX.XCF
+
+### Zadanie 6
+Efekt: <a href="http://vector.org.pl/gimp/projekt-12-08-dane/legitymacja.png">Legitymacja</a> 
+
+Zdjęcie do legitymacji ma szer. 3.5cm x 4.5cm. Pojedyńcza odbitka ma 9x13cm (89x127 mm)
+Odbitki naświetlane są z rozdzielczością 300DPI
+
+Materiały wyszukaj w sieci Internet lub wykorzystaj własne zdjęcie. 
+
+Zachowaj obszach ochronny (środek 40px).
+
+Plik zapisz jako projekt XCF pod nazwa LE.XCF
+
+Podsumowanie:
+
+- skalowanie obrazu (Obraz/Skaluj obraz)
+- rozdzielczosc wydruku (Obraz/ rozmiar wydruku)
+- Kadrowanie (skrót Shift+C)
+- prowadnice do kadrowania
+- kadrowanie zdjec z zachowaniem proporcji

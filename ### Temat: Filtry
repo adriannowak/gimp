@@ -1,0 +1,127 @@
+### Temat: Filtry
+
+### Zadanie 1
+Plik: <a href="http://photo.net/photodb/random-photo?category=NoNudes">Wyszukiwarka</a>
+
+1. Wykorzystaj filtr: "Zniekształcenia/fale"
+2. Pamiętaj o znaku wodnym.
+
+Wyszukaj informacji na temat parametrów fitra. Jak ich zmiana wpływa na efekt końcowy? 
+Swoje uwagi zapisz w pliku FIL1.TXT (opisz każdy parametr)
+
+Efekt pracy zapisz jako FIL1.XCF (kilka warstw, które opiszesz)
+
+### Zadanie 2 
+Plik: <a href="http://photo.net/photodb/random-photo?category=NoNudes">Wyszukiwarka</a>
+
+1. Wykorzystaj filtr: "Zniekształcenia/Skręcanie i zaciskanie"
+2. Pamiętaj o znaku wodnym.
+
+Wyszukaj informacji na temat parametrów fitra. Jak ich zmiana wpływa na efekt końcowy? 
+Swoje uwagi zapisz w pliku FIL2.TXT (opisz każdy parametr)
+
+Efekt pracy zapisz jako FIL2.XCF (kilka warstw, które opiszesz)
+
+### Zadanie 3
+
+Plik: <a href="http://photo.net/photodb/random-photo?category=NoNudes">Wyszukiwarka</a>
+
+1. Wykorzystaj filtr: "Artystyczne/Kubizm"
+2. Pamiętaj o znaku wodnym.
+
+Wyszukaj informacji na temat parametrów fitra. Jak ich zmiana wpływa na efekt końcowy? 
+Swoje uwagi zapisz w pliku FIL3.TXT (opisz każdy parametr)
+
+Efekt pracy zapisz jako FI3.XCF (kilka warstw, które opiszesz)
+
+### Zadanie 4
+
+Plik: <a href="http://photo.net/photodb/random-photo?category=NoNudes">Wyszukiwarka</a>
+
+1. Wykorzystaj filtr: "Szum/Rozrzucenie"
+2. Pamiętaj o znaku wodnym.
+
+Wyszukaj informacji na temat parametrów fitra. Jak ich zmiana wpływa na efekt końcowy? 
+Swoje uwagi zapisz w pliku FIL4.TXT (opisz każdy parametr)
+
+Efekt pracy zapisz jako FIL4.XCF (kilka warstw, które opiszesz)
+
+
+
+### Zadanie 5
+
+Plik: <a href="http://photo.net/photodb/random-photo?category=NoNudes">Wyszukiwarka</a>
+
+1. Wykorzystaj filtr: "Zniekształcenia/Soczewki"
+2. Pamiętaj o znaku wodnym.
+
+Wyszukaj informacji na temat parametrów fitra. Jak ich zmiana wpływa na efekt końcowy? 
+Swoje uwagi zapisz w pliku FIL5.TXT (opisz każdy parametr)
+
+Efekt pracy zapisz jako FIL5.XCF (kilka warstw, które opiszesz)
+
+
+### Zadanie 6
+
+Plik: <a href="http://photo.net/photodb/random-photo?category=NoNudes">Wyszukiwarka</a>
+
+1. Wykorzystaj filtr: "Odwzorowania/ Śledzenie fraktalne"
+2. Pamiętaj o znaku wodnym.
+
+Wyszukaj informacji na temat parametrów fitra. Jak ich zmiana wpływa na efekt końcowy? 
+Swoje uwagi zapisz w pliku FIL6.TXT (opisz każdy parametr)
+
+Efekt pracy zapisz jako FIL6.XCF (kilka warstw, które opiszesz)
+,
+
+### Zadanie 7
+
+Plik: <a href="http://photo.net/photodb/random-photo?category=NoNudes">Wyszukiwarka</a>, wylosuj 5 zdjęć, wykadruj je
+
+1. Wykorzystaj filtr: "Odwzorowania/Odcinek filmu"
+2. Pamiętaj o znaku wodnym.
+
+Wyszukaj informacji na temat parametrów fitra. Jak ich zmiana wpływa na efekt końcowy? 
+Swoje uwagi zapisz w pliku FIL7.TXT (opisz każdy parametr)
+
+Efekt pracy zapisz jako FIL7.XCF (kilka warstw, które opiszesz)
+
+### Zadanie 8
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-13-09-dane/jaszczurowka-1.jpg">Jaszczurówka</a>, <a href="http://vector.org.pl/gimp/projekt-13-09-dane/jaszczurowka-2.jpg">Jaszczurówka</a> 
+Efekt: <a href="http://vector.org.pl/gimp/projekt-13-09-dane/jaszczurowka2.png">Jaszczurówka</a> 
+
+
+1. Wykorzystaj filtr: "Łączenie/łączenie głęb"
+2. Pamiętaj o znaku wodnym.
+
+Efekt pracy zapisz jako FIL8.XCF (kilka warstw, które opiszesz)
+
+
+
+
+### Zadanie 9
+
+Efekt: <a href="http://vector.org.pl/gimp/projekt-13-10-dane/lublin.png">Lublin</a>
+
+1. Wykorzystaj filtr: "Artystyczne/nałóż płótno" oraz "Odzworowania/Mapa wypukłości"
+2. Parametry barwienia obrazu: O:40, N:24, J:0
+
+Efekt pracy zapisz jako FIL9.XCF 
+
+
+
+### Zadanie 10
+1. Wykorzystaj filtr: "Filtr/Alfa na logo"
+2. Stwórz 5 przykładowych logotypów. (tekst + symbol)
+
+Efekt pracy zapisz jako FIL8.XCF (kilka warstw, które opiszesz)
+
+
+Podsumowanie:
+
+- skalowanie obrazu (Obraz/Skaluj obraz)
+- rozdzielczosc wydruku (Obraz/ rozmiar wydruku)
+- Kadrowanie (skrót Shift+C)
+- prowadnice do kadrowania
+- kadrowanie zdjec z zachowaniem proporcji
