@@ -1,0 +1,51 @@
+### Temat: Gradient
+
+### Zadanie 1
+Plik: <a href="http://vector.org.pl/gimp/projekt-14-01-dane/samochod-wyciety.jpg">Samochód</a>
+
+Efekt:  <a href="http://vector.org.pl/gimp/projekt-14-01-dane/samochod-wyciety2.png">Samochód</a>
+
+Uwaga1: Należy wciąg samochód
+Uwaga2: Dodaj prowadnicę pionową 50%
+
+
+### Zadanie 2 
+Czcionka: <a href="http://www.dafont.com/pleasantly-plump.font">Plump</a>
+Plik: <a href="http://vector.org.pl/gimp/projekt-14-02-dane/orzech.jpg">Orzech</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-14-02-dane/orzech2.png">Orzech</a>
+
+
+### Zadanie 3
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-14-03-dane/przycisk.png">Przycisk</a>
+
+Kolory: #6ca0d2, #c8e0f6
+1. Utworz projekt 700x250, dodaj w nim prowadnice odlegle od krawedzi obrazu o 40 px
+2. Zaznaczenie, 90
+3. Dodaj kolejny gradient
+4. Przy uzyciu odrecznego zaznaczania narysuj rogalika w legym gornym obszarze
+5. Zmiększ zaznaczenie o 100px
+6. Wykorzystaj "miękkie światło"
+7. Dodaj tekst, wykorzystaj filtr "Odzworowanie/Mapowanie wypukłości"
+
+### Zadanie 4
+
+Zainstaluj pakiet gradientów: http://gimp-tutorials.net/130-UltimateWeb20-Gradients-for-Gimp
+
+Wybierz 4, stwórz przyciski:
+ - O mnie
+ - Kontakt
+ - Kup teraz (dodaj ikonke)
+ - Zaakceptuj (dodaj ikonke)
+
+
+
+### Zadanie 5
+Wykonaj zadanie z <a href="http://www.gimpology.com/submission/view/gold_text_effect">tutoriala</a>.
+Jako tekst wpis swoje imię i nazwisko
+
+
+### Zadanie 6
+Plik: <a href="http://vector.org.pl/gimp/projekt-14-10-dane/bs.png">Niebieskie niebo</a>
+
+Do stworzenia chmur wykorzystaj: Efekt chmur, Gradient, Tryb mieszania
