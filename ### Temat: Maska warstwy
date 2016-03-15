@@ -1,0 +1,54 @@
+### Temat: Maska warstwy
+
+### Zadanie 1
+Plik: <a href="http://vector.org.pl/gimp/projekt-15-01-dane/plyta.jpg">Płyta</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-15-01-dane/plyta2.jpg">Płyta</a>
+
+Czcionki: Big Apple NF, Georgia bold
+
+Zapisz jako Z1.XCF (włączona maska), Z11.XCF (wyłączona maska)
+
+
+### Zadanie 2
+Plik: <a href="http://vector.org.pl/gimp/projekt-15-02-dane/elektronika.jpg">Elektronika</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-15-02-dane/elektronika2.png">Elektronika</a>
+
+Czcionki: szlichta07 Medium, Typewriter
+
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-15-03-dane/ksiazki.jpg">Ksiązki</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-15-03-dane/ksiazki2.png">Ksiązki</a>
+
+Czcionki: GangueOuais, AntsyPants
+
+### Zadanie 4
+Plik: <a href="http://vector.org.pl/gimp/projekt-15-04-dane/konie.jpg">Konie</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-15-04-dane/konie2.png">Konie</a>
+
+Czcionki: Fancy Pants
+
+### Zadanie 5
+Plik: <a href="http://vector.org.pl/gimp/projekt-15-05-dane/skan-1.jpg">Skan-1</a>, <a href="http://vector.org.pl/gimp/projekt-15-05-dane/skan-2.jpg">Skan-2</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-15-05-dane/efekt2.png">Efekt</a>
+
+Czcionki: Fancy Pants
+
+Podsumowanie:
+
+- fragmenty narysowane kolorem bialym na masce sa widoczne normalnie, natomiast obszary wypelnione czernia znikaja
+- kolory posrednie, czyli szary o roznym stopniu nasycenia, powoduja czesciowa przezroczystosc
+- rola maski jest nieco zblizona do roli suwaka ustaajacego krycie
+- przy uzyciu sywaja jrtcue nizent znuebuac stioeub orzezricztstiscu wsztstjucg oujseku warstwt barazm nasja batinuast ynizkuwua modykowanie przezryczystosci pikseli czarno-bialym obrazem
+- wten sposob niektore piksele warstwy pozostana w pelni widoczne (krycie 100), inne znikna zupelnie (krycie 0) a inne beda czesciowo przezroczyste
+- ctrl - wlacza i wylacza dzialanie maski
+- alt - przechodzi do trybu wyswietlania maski
+
+Znaczenie koloru obwodki jest nastepujace:
+- bialy - maska jest biezaca warstwa, operacje edycyjne dzialaja na masce
+- czarny - maska niejest biezaca warstwa
+- czerwony - dzialania maski jest wylaczone
+- zielony - w oknie obrazu wysweitlany jest wyglad maski
+
+
+

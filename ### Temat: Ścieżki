@@ -1,0 +1,56 @@
+### Temat: Ścieżki
+
+### Zadanie 1
+Plik: <a href="http://vector.org.pl/gimp/projekt-16-01-dane/samochod.jpg">Samochod</a>
+
+Wytnij samochod.
+
+Aby cięcie nie było twarde, zmniejsz zaznaczenie o 3px i zmiękcz o 3px
+
+Wycinanie elementow najelpeij wykonywac na obrazie w duzej rozdzielczosci. Im wyzsza rozdzielczosc, tym bardziej zmniejsz i zmiekcz zaznaczenie. Otrzymany w ten sposob element zawsze mozesz przeskalowac do mniejszych rozmiarow.
+
+
+
+### Zadanie 2
+Plik: <a href="http://vector.org.pl/gimp/projekt-16-02-dane/zdjecia.zip">Paczka zdjęć</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-16-02-dane/mdk2.png">Efekt końcowy</a>
+
+
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-16-03-dane/ksiazki.jpg">Ksiązki</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-16-03-dane/ksiazki2.png">Ksiązki</a>
+
+Czcionki: Fabulous 50s
+
+### Zadanie 4
+Plik: <a href="http://vector.org.pl/gimp/projekt-16-04-dane/fotka-1.jpg">Fotka</a>, <a href="http://vector.org.pl/gimp/projekt-16-04-dane/fotka-2.jpg">Fotka</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-16-04-dane/pocztowka2.png">Pocztowka</a>
+
+Czcionki: Fabulous 50s
+
+### Zadanie 5
+Plik: <a href="http://www.konflikty.pl/wp-content/uploads/2016/01/Two_F-15_jets_over_the_Oregon_Coast_in_2003.jpg">Samolot</a>
+
+Wytnij samoloty. Utwórz ich kopie w kolorach RGB.
+
+
+Podsumowanie:
+
+- sciezki sa liniami, ktorym mozemy w prosty sposob nadawac oble ksztalty. znajduja one zastosowanie przy wycinaniu elementow i dodawaniu do obrazu roznych ksztaltow - zarowno wypelnionych jak i obrazysowanych.
+- sciezka sklada sie z pewnej liczby wierzcholkow polaczonych odcinkami. odcinki laczace wierzcholki moga byc proste lub powyginane
+- przygotowana sciezke mozemy przeksztalcic na zaznaczenie i na tej podstawie wykonac operacje edycyjne na obrazie
+- skrot narzedzia do sciezek - B
+- biale kropki, nazywane wezlami
+- kazdy dodany wezel mozna przesunac
+- blednie postawione sciezki mozemy usunac (ctrl i shift + klik na wezel)
+- aby "Zamknac" sciezke, uzywamy klawisza crtl
+- aby usunac odcinki - ctrl + shift
+- nie mozna wyprowadzic wiecej niz 2 odcinkow z wezla
+- wezly mozna dodawac na istniejacych juz odcinkach, trzymaj ctrl
+- do wygladzania i dostosowania odcinkow sluza punkty kontrolne zwiazane z wierzcholkami
+- przytrzymaj ctrl i sprobuj przeciagnac dowolny z wezlow sciezki
+- 2x 
+- ustaw punkt kontrolny z shiftem - symetryczne rozlozenie 2 punktow
+- aby usunac punkt kontrolny ctrl + shift
+
