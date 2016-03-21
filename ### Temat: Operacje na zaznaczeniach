@@ -1,0 +1,61 @@
+### Temat: Operacje na zaznaczeniach
+
+### Zadanie 1
+
+Wykonaj zaznaczenie. 
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-17-01-dane/klawiatura.jpg">Klawiatura</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-17-01-dane/klawiatura2.jpg">Klawiatura</a>
+
+
+### Zadanie 2
+Plik: <a href="http://vector.org.pl/gimp/projekt-17-02-dane/heart.jpg">Serce</a>, <a href="http://vector.org.pl/gimp/projekt-17-02-dane/lublin.jpg">Lublin</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-17-02-dane/lublin2.png">Efekt końcowy</a>
+
+Czcionka: Geometry Soft Pro Bold
+
+Zapisz tekst oraz zdjecie jako "zaznaczenie". Wykonaj "Filtry/Swiatlo i cien/Rzucanie cienia"
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-17-03-dane/krople-wody.jpg">Krople wody</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-17-03-dane/krople-wody2.png">Krople wody</a>
+
+Zwieksz kontrast do 30.
+Wykonaj automatyczne wyrownanie poziomow kolorow
+Zmien zabarwienie O:210, N: 80, J: 60
+Wyosztrz zdjecie (uwydatnianie wyostrz z parametrem 60)
+
+
+Czcionki: Diavlo
+
+### Zadanie 4
+Plik: <a href="https://i.ytimg.com/vi/AUe46iOvl2c/maxresdefault.jpg">Tekst na ścieżkę</a>
+
+
+Podsumowanie:
+
+Selekcja moze pojawic sie na obrazie w wyniku operacji:
+ - uzycia narzedzia zaznaczenia
+ - wykonania operacji kanal alfa na zaznaczenie
+ - wykonania na sciezce operacji Sciezka na zaznaczenie
+
+ Bez wzgledu na sposkob wykonaniaa zaznaczony obszar mozemy poddawac przeksztalceniom.
+- powiekszanie
+- zmniejszanie
+- zmiekczanie
+- zaokraglanie
+
+A takze:
+- suma: do jednego zaznaczenia zostaje dodany obszar objety drugim zaznaczeniem
+- roznica: od zaznaczonego obszaru zostaje odjety fragment objety drugim zaznaczeniem
+- czesc wspolna: dwa zaznaczenia nachodzace na siebie zostaja zastapiona czescia wspolna.
+
+
+O sposobie laczenia decyduje oprcja tryb.
+Shift - sumowanie
+Alt - roznica
+Ctrl+shift - czesc wspolna
+
+Zaznaczenie mozemy zapisywac w kanalah/ SLuzy do tego opecja Zaznaczenie/Zapisz do kanal. W celu odtworzenia zapisanego zaznaczenia nalezy przejsc do okna kanałów, nasteppnie wybraz zaznaczenie i nacysnac przycisk odtworz. Dzieki tej operacji obraz moze zawierac dowolna ilosc zaznaczeń. 
+
+Zmiana trybu dziala rowniez na zapisanych zaznaczeniach (ale tylko przy uzyciu skrotu klawiszowego)
