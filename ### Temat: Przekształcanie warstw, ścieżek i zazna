@@ -1,0 +1,55 @@
+### Temat: Przekształcanie warstw, ścieżek i zaznaczeń
+
+### Zadanie 1
+
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-18-01-dane/ludzik.jpg">Ludzik</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-18-01-dane/ludzik2.jpg">Ludzik</a>
+
+Czcionka: Geometry Soft Pro Bold
+
+### Zadanie 2
+Plik: <a href="http://vector.org.pl/gimp/projekt-18-02-dane/fotoamator.jpg">Ludzik</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-18-02-dane/fotoamator2.jpg">Ludzik</a>
+
+Zdjęcia do kliszy wybierz samodzielnie.
+
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-18-03-dane/winyl.zip">Winyl</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-18-03-dane/wynyl2.png">Winyl</a>
+
+Czcionka: Big Apple NF oraz Comic Sans MS Bold
+
+### Zadanie 4
+Plik: <a href="http://vector.org.pl/gimp/projekt-18-05-dane/butelki.zip">Butelki</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-18-05-dane/butelki2.png">Butelki</a>
+
+Czcionka: Ubuntu title
+
+Wykorzystaj filtr paskowania: Filtry/Renderowanie/Deseń/Siatka o parametrach: szerokosc 2px odstep 2px
+
+### Zadanie 5
+Plik: <a href="http://vector.org.pl/gimp/projekt-18-06-dane/kogut.zip">Kogut</a>
+Efekt: <a href="http://vector.org.pl/gimp/projekt-18-06-dane/kogut2.png">Kogut</a>
+
+Czcionka:  GreatLakesNF
+
+Podsumowanie:
+
+Do grupy narzędzi przekształcania należy:
+- przesuwanie
+- obracanie Shift+R
+- skalowanie Shift+T
+- nachylanie Shift+S
+- perspektywe Shift+P
+- odbijanie Shift+F
+
+Narzędzia przekształcające operują na:
+- warstwach
+- zaznaczeniach
+- ścieżkach
+
+O tym, czy przekształceniu zostanie poddana wasrstwa, zaznaczenie czy sciezka decydują ustawienia narzędzia. Każde z przekształceń w opcjach zawiera ikony ustawień.
+Ikona spinacza ma wplyw na dzialanie narzedzi przekszaltacajacych. Narzedzia przeksztalcaja wszystkie obiekty polaczone spinaczem w identyczny sposob.
+Jesli w oknie warstw wlaczysz widocznosc ikony spinacza kilku dowolnym wastwom, a nastepnie narzedziem do obracania obrocisz dowolna z warstw to wszystkie pozostale warstwy z wlaczonym spinaczem zostana obrocone w identyczny sposob. 
