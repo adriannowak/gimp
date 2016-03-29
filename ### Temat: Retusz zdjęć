@@ -1,0 +1,107 @@
+### Temat: Retusz zdjęć
+
+### Zadanie 1
+
+Wykonaj kostkę 3D. Wybierz 6 fotografii przy użyciu <a href="http://photo.net/photodb/random-photo?category=NoNudes">RandomImage</a>. 
+Wykorzystaj narzędzia perspektywy.
+
+
+### Zadanie 2
+
+Plik: <a href="http://vector.org.pl/gimp/projekt-20-01-dane/kazimierz-dolny.jpg">Samochod</a>
+
+Usuń ze zdjęcia stare kable telefoniczne, osobę z kosiarką i zaparkowany samochód.
+
+Jeśli zaznaczymy opcję "próbkowanie wszystkich warstw" to będzie można łatkę rysować na nowej warstwie. Dodaj do obrazu nową przezroczystą warstwę i wybierz ją jako aktywną. Jesli teraz uzyjesz narzedzia do klonowania, to fragment bedzie pobierany ze zdjecia i umieszczany na nowej przezroczystej warstwie. W zaleznosci od wzoru, ktory nalezy pomalowac, oraz od jego otoczenia czasami sprawdzi sie lepiej duzy pedzel o ostrych koncach, a czasami maly pedzelek o gladkim brzegu. Oczywiscie duzym pedzlem pracuje sie szybciej, ale latwiej tez jest dostrzec modyfikacje na fotografii.
+
+
+### Zadanie 3
+Plik: <a href="http://vector.org.pl/gimp/projekt-20-01-dane/latka.jpg">Twarz</a>
+
+Wretuszuj zdjęcie wykorzystująć łatkę. 
+Czym różni się od narzędzia stempel?
+
+### Zadanie 4
+Plik: <a href="http://vector.org.pl/gimp/projekt-20-01-dane/w-drodze.jpg">W drodze</a>
+
+Usun ze zdjęcia drzewa znajdujące się po lewej stronie. Zastosuj rozmycie gausaa do nieba.
+
+
+### Zadanie 5
+Plik: <a href="http://vector.org.pl/gimp/last/smile.jpg">Uśmiech</a>
+Wykorzystując narzędzie pędzel wykonaj obrazek
+
+### Zadanie 6
+
+Plik: <a href="http://vector.org.pl/gimp/last/hey-hey-hey.png.png">Hey hey</a>
+Plik: <a href="http://vector.org.pl/gimp/last/pedzel.png">Uśmiech</a>
+
+Utworz nowy obraz o wymiarach 64x64. Przejdz do wlasciwosci obrazu dostepnych w opcji Obraz/Tryb. Wybierz tryb obrazu Odcienie szarosci. Tworzony obraz bedzie czarno-bialy.
+Nastepnie przejdz do okna warstw obrazu. Znajdziesz tam jedna warstwe tlo. Nazwa warstwy powinna byc napisana w oknie warstw tlustym drukiem. Swiadczy to o tym, ze nie ma ona kanalu alfa.
+
+Dodaj do obrazu sciezke (tak jak pokazano na obrazie Usmiech). Wyeksportuj plik jako GBR (jako pędzel).
+
+Nowym pedzlem narysuj trzy kolorowe paski i dodaj napisy Hey wykonane krojem StinkFisty. 
+
+### Zadanie 7
+
+Plik: <a href="http://vector.org.pl/gimp/last/ptaki.zip">Ptaki</a>
+Plik: <a href="http://vector.org.pl/gimp/last/ptaki.png">Ptaki.png</a>
+
+Efekt: <a href="http://vector.org.pl/gimp/last/ptaki-efekt.png">Efekt</a>
+
+Utworz nowy obraz o wymiarach 420x420. Wklej do niego piętnaście wyciętych ptaków. Każdy z wklejonych ptaków umieść na nowej warstwie i wyrownaj do srodka obrazu. Wyeksportuj plik jako pędzel (tym razem GIH)
+
+Parametry eskportu:
+Odstep 60, rozmiar 420x420, liczba komorek 15 wymiar 1 rzedy 15
+
+
+Dodaj w obrazie napis 'TO' wykonany duzymi literami kroju Georgia Bold. Otrzymana sciezke obrysuj narzedziem pedzel na nowej przezroczystej warstwie. Dodaj napis "Towarzystwo ornitologiczne" czcionka Parisish
+
+### Zadanie 8
+Plik: <a href="http://vector.org.pl/gimp/last/tekstury.png">Tekstury</a>
+
+
+Wykorzystaj desenie:
+- Dried mud, 
+- Rain
+- Stone
+- Wood
+
+Aby uzyskac efekt. 
+
+Pamietaj, aby wykorzystać przycisk Shift.
+
+Tekstury są to obrazy o rozszerzeniu PAT.
+
+
+### Zadanie 9
+
+Palety kolorow programu gimp zapisane sa w folderze palettes w plikach o rozszerzeniu gpl.
+Ich edycje mozna prowadzic wylacznie za posrednictwem interfejsu gimp.
+Okna/Dokowalne okna/Palety. Kliknij 2x na wybrana palete. Wykonaj własną paletę kolorów METRO COLORS.
+
+(Opcja duplikat, zmiana nazwy)
+
+### Zadanie 10
+
+Gradienty edytujemy w podobny sposob jak palety. Umozliwiaja to przeyciski w oknach dialogowych. Gradienty zapisane sa w folderze gradients w plikach ggr. 
+Stworz wlasny gradient wykorzystujac metro colors. 
+
+### Zadanie 11
+
+GIMP udostepnia czcionki, ktore sa zainstalowane w systemie.
+Okna/Dokowane/Czcionki i z menu kontekstowego wybierz Renderowanie mapy czcionki. 
+Filtr ^a, ^1
+
+
+
+Podsumowanie:
+
+- Klonowanie (C)
+- Łatka (H)
+- Klon perspektywy 
+- Rozmywanie
+- Rozsmarowywanie
+- Rozjasnianie/przyciemnianie]
+- Ctrl+Shift+C (kopiuj widoczne)
