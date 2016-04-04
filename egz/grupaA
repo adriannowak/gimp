@@ -1,0 +1,89 @@
+### Sprawdzian (grupa A)
+
+### Zadanie 1
+
+Wykonaj projekt:
+ - prostokąt o wymiarach 200 x 300 px wypełniony gradientem "Yellow orange"
+ - kwadrat o boku 200 px wypełniony deseniem "Granite"
+ - trójkąt równoramienny o dowolnych wymiarach wypełniony kolorem #FAFAFA
+ - <a href="http://vector.org.pl/gimp/egz/ksztaltA.png">Kształt A</a>
+ - <a href="http://vector.org.pl/gimp/egz/ksztaltC.png">Kształt C</a>
+ - <a href="http://vector.org.pl/gimp/egz/ksztaltE.png">Kształt E</a>
+
+Elementy wyrównaj w jednej linii (pionowo). Dodaj przezroczyste tło.
+
+Zapisz projekt jako plik w formacie umożliwiającym wyświetlenie kanału alfa  go "ZAD1"
+
+
+### Zadanie 2
+
+Opisz procedurę instalacji dodatkowych czcionek w programie GIMP. 
+Uwzględnij posiadane uprawienia systemowe.
+
+### Zadanie 3
+
+Wyjaśnij pojęcia:
+ - jasność
+ - jaskrawość
+ - szybka maska
+ - rozdzielczość wydruku
+ - piksel
+
+### Zadanie 4
+
+Opcja wypełnij kolorem posiada dwa tryby krycia. Opisz i omów poznane tryby.
+
+
+ ### Zadanie 5
+ Wykonaj skalowanie 
+ <a href="http://vector.org.pl/gimp/projekt-12-03-dane/zmija-i-zaskroniec2.png">obrazu</a>
+ do 64px (wysokość) zachowując proporcję. 
+
+
+### Zadanie 6
+ Co to jest maska warstwy?
+ - Jak włączyć i wyłączyć widoczność maski warstwy?
+ - Jak włączyć i wyłączyć tryb wyświetlania maski?
+
+Wymień i opisz znaczenie kolorów obramowania miniatury maski warstwy:
+- biały
+- czarny
+- czerwony
+- zielony
+
+
+### Zadanie 7
+Opisz czym są ścieżki i z jakich elementów się składają. 
+Opisz poznane operacje na ścieżkach. 
+Co to są węzły kontrolne i do czego służą?
+
+### Zadanie 8 (6 pkt)
+Opisz procedurę tworzenia własnego pędzla. 
+Jakie rozszerzenie ma pędzel oparty o jedną/wiele warstw w programie gimp?
+
+Wykonaj pędzel o kształcie smutnej emotikonki. 
+Zapisz pod nazwą SAD
+
+
+### Zadanie 9 
+Wykonaj operację "Renderowanie mapy czcionki", dla wszystkich których nazwa rozpoczyna się od litery a. Tekst : Twoje Imie i nazwisko
+
+
+### Zadanie 10
+Wykonaj <a href="https://i.ytimg.com/vi/AUe46iOvl2c/maxresdefault.jpg">projekt </a>.
+Teksty mogą być dowolne.
+Zapisz pod nazwą PRO.XCF
+
+
+### Zadanie 11
+Przy użyciu maski warstwy wykonaj 
+<a href="http://4.bp.blogspot.com/-O9h6G9rA_5U/Toxz73pGmgI/AAAAAAAAA_k/p-bSKgiryTM/s1600/gimp-layer-mask-steven-mask-apply.jpg">projekt</a>
+
+<a href="http://2.bp.blogspot.com/-E2zSESW65oU/Toxz797cmXI/AAAAAAAAA_c/fyYyynhoKzk/s1600/gimp-layer-mask-steven.jpg">Foto-1</a>
+
+Zapisz pod nazwą PRO2.XCF
+
+
+### Zadanie 12
+Wykorzystująć poznane opcje wykonaj <a href="kub.png">projekt</a>
+<a href="kub.jpg">Foto</a>
