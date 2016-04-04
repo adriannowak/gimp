@@ -5,7 +5,7 @@
 Wykonaj projekt:
  - prostokąt o wymiarach 200 x 300 px wypełniony gradientem "Yellow orange"
  - kwadrat o boku 200 px wypełniony deseniem "Granite"
- - trójkąt równoramienny o dowolnych wymiarach wypełniony kolorem #FAFAFA
+ - trójkąt równoramienny o dowolnych wymiarach wypełniony kolorem #FAFAFA, nastepne obroc co o 45 stopni w prawo
  - <a href="http://vector.org.pl/gimp/egz/ksztaltA.png">Kształt A</a>
  - <a href="http://vector.org.pl/gimp/egz/ksztaltC.png">Kształt C</a>
  - <a href="http://vector.org.pl/gimp/egz/ksztaltE.png">Kształt E</a>
@@ -87,3 +87,5 @@ Zapisz pod nazwą PRO2.XCF
 ### Zadanie 12
 Wykorzystująć poznane opcje wykonaj <a href="kub.png">projekt</a>
 <a href="kub.jpg">Foto</a>
+
+Zapisz pod nazwą PRO3.XCF
